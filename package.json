@@ -1,0 +1,14 @@
+{
+  "name": "publica-nats",
+  "version": "1.0.0",
+  "description": "Publica en una cola Nats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ANDERS ROJAS",
+  "license": "ISC",
+  "dependencies": {
+    "node-nats-streaming": "^0.3.2"
+  }
+}
